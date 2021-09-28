@@ -1,7 +1,7 @@
 "Author: Quinn Cabooter
 Assignment 2 of the R-Programming Course by Dr. Peng"
 
-## Changing the m to s so it fits better with 'solve' and change all means to solve
+## Using the example code from the assignment and changing the m to s so it fits better with 'solve' and change all means to solve
 
 makeCacheMatrix <- function(x = matrix()) {
       s <- NULL
